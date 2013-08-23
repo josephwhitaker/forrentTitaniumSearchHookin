@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/joseph.whitaker/Development/mobilesdk/osx/3.1.1.GA/iphone",
+	"appGuid": "2eebd09e-9d0b-4d03-9e43-aa68773f40b7",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "7fb655db1d51a26b74a2778ab4a02a6b",
+	"nativeModulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "f7592c1",
+	"name": "Play Item 2",
+	"id": "com.whitaker.play2",
+	"analytics": true,
+	"publisher": "joseph.whitaker",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2013 by joseph.whitaker",
+	"guid": "2eebd09e-9d0b-4d03-9e43-aa68773f40b7",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}
